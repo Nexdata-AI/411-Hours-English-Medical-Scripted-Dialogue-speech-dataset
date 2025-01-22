@@ -1,0 +1,36 @@
+LHD	DataTang-v1.2
+DBN
+SES	G00212
+CMT	*** Speech Label Information ***
+FIP	data/category/G00212/G00212S0004.wav
+CCD	
+REP	indoor
+RED
+RET
+CMT	*** Speech Data Coding ***
+SAM	16000
+SNB	2
+SBF	lohi
+SSB	16
+QNT	wav
+NCH	1
+CMT	*** Speaker Information ***
+SCD	C1,O1
+SEX	C1_Female,O1_Female
+AGE	
+ACC	
+ACT	
+BIR	
+CMT	*** Recording Conditions ***
+SNQ
+MIP	close
+MIT	
+SCC	Quiet
+CMT	*** Label File Body ***
+LBD	G00212S0004.txt
+LBR	409.9
+LBO	378.4075943538163
+CMT	*** Customized Label Body ***
+SRA
+EMO
+ORS	

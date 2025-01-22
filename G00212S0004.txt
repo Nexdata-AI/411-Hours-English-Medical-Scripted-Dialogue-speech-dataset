@@ -1,0 +1,73 @@
+17.65	21.020405427534204	C1	Hello, Doctor. I hope you're doing well.
+21.341676611775462	26.084040123536894	C1	I wanna to discuss my recent experienced with anxiety.
+26.54701487114271	32.761487373802915	C1	It's been quite overwhelming lately and I'm not sure how to handle it effectively.
+32.989140432379116	40.34467831097039	O1	Hello I'm sorry to hear that you are feeling this way. Anxiety can indeed be very challenging to manage.
+40.370062851431726	43.2820369601952	O1	Could you describe your symptoms in more detail?
+43.313951522495685	50.048770904687544	O1	When do you usually feel most anxious and are there any specific triggers that you've noticed?
+50.2703057440762	57.202691146820094	C1	Sure. I often feel anxious in social situations and when I'm under pressure,
+57.46225876769679	59.838349812894165	C1	like at work or school.
+59.874650157401675	67.33404012353688	C1	Recently, I've been having trouble sleeping. And sometimes I feel a tightness in my chest.
+67.61063299680775	73.10489162870684	C1	I also find myself constantly worrying about things that might go wrong,[N]
+73.37084631454421	76.60849705431987	C1	even if there is no real reason to worry.
+77.07191456230049	82.53702006176843	O1	Thank you for sharing that. It sounds like you are experiencing quite a bit of distress.
+82.59744725026604	89.33829643663542	O1	Difficultly sleeping and physical symptoms, like chest tightness, are common in anxiety disorders.
+89.38042718849759	94.28977861981261	O1	Have you tried any strategies or treatment in the past to manage your anxiety?
+94.74934624068933	100.26418934084731	C1	I have tried some relaxation techniques like deep breathing and meditation,
+100.2854657157143	103.74721029820145	C1	but they only provide temporary rel- relief.
+104.07148218317717	111.36042199787185	C1	I've also been on medication before, but I stopped taking it because I didn't like the side effects.
+111.6582912460097	117.86169837273881	C1	I really want to find a way to manage this without feeling constantly on edge.
+118.08042718849758	123.99956762087669	O1	I understand. Medication can have side effects that are unpleasing for some people.
+124.03871843450729	129.05526968899636	O1	Addition to relaxation techniques, Cognitive Behavioral Therapy C B T,
+129.07654606386333	132.57062780618205	O1	has been shown to be effective in managing anxiety.
+132.61318055591605	140.52510549946797	O1	It is a structured short term therapy that helps you identify and change negative thought patterns and behaviors.
+140.56779330431584	143.51151090193608	O1	Have you considered or tried therapy before?
+144.08809858458125	150.03586317013816	C1	I haven't tried C B T specifically, but I have heard good things about it.
+150.43275855804416	156.57403493291116	C1	I'm open to giving it a try if it can help me manage my anxiety better.
+156.60594949521166	161.45343318579927	C1	How long does it usually take to see results with C B T?
+161.47830162726117	167.05755552600908	O1	C B T typically involves weekly sessions for about twelve to twenty weeks.
+167.08947008830955	172.20167761023592	O1	But the duration can vary depending on individual needs and progress.
+172.23361293503933	176.00514382139136	O1	Many people start to see improvement within a few weeks.
+176.04769657112533	181.29743167838882	O1	The skills you learn can be very effective in managing anxiety long-term.
+181.33999480937428	186.8335766006592	O1	Would you like me to help you find a therapist who specializes in C B T?
+187.1700913448749	189.56339674547766	C1	Yes, that would be great.
+189.59531130777813	195.23871324388153	C1	I think having professional guidance would be really beneficial.[N]
+195.5153061171524	196.84054296378238	C1	In the meantime,[N]
+196.87245752608285	204.45146661129996	C1	are there any other techniques or lifestyle changes you recommend that could help reduce my anxiety?
+204.49249219175792	209.15046337486376	O1	Absolutely. Regular exercise, maintaining a healthy diet,
+209.18237793716423	214.54719991694995	O1	and ensuring you get enough sleep are all important for managing anxiety.
+214.57913524175345	220.60042199787182	O1	Additionally, mindfulness practices like yoga and journaling can be helpful.
+220.63233656017232	227.54297993823155	O1	It is also crucial to limit caffeine and alcohol, as they can exacerbate anxiety symptoms.
+227.58978381043835	231.67276374866987	O1	How does your current lifestyle align with these recommendations?
+231.7621203706107	238.62169837273882	C1	I do exercise occasionally, but I could definitely improve my diet and sleep habits.
+238.89829124600965	245.58457234008816	C1	I tend to drink a lot of coffee, especially when I'm stressed. I would try to cut back on that,
+245.6058487149551	248.0624039947136	C1	and see if it makes a difference.
+248.38180933148794	251.95678427962227	C1	Are there any specific dietary changes you suggest?
+252.0206134042232	257.75997404687126	O1	It is great that you are open to making changes. Reducing caffeine is a good start.
+257.7921794819025	263.5322749813056	O1	Incorporate more whole foods like fruits, vegetables, lean proteins,
+263.5535513561726	266.0049432305724	O1	and whole grains can also help.
+266.05385395951475	273.85573849627576	O1	Omega-three fatty acids found is in fish and flaxseeds are beneficial for brain health.
+273.86472246170297	281.12455411815324	O1	Staying hydrated and avoiding processed food and excessive sugar can also improve your overall well-being.
+281.507528865759	288.0179996727473	C1	That sounds manageable. I will start by making these adjustments and see how I feel.
+288.33495323976143	296.33495323976143	C1	One more thing. Sometimes my anxiety gets so intense that I feel like I'm having a panic attack.
+296.72294188648425	299.23142855955274	C1	What should I do in those moments?
+299.80660306088765	303.96234175079803	O1	During a manic attacks, it is important to focus on your breathing.
+303.9942563130985	308.70702525239415	O1	Try to take slow, deep breaths to help calm your nervous system.
+308.7389398146947	313.8435462324573	O1	Rounding techniques such as focusing on physical sensations,
+313.8754607947578	318.8772154888272	O1	around you and repeating a calming phrase can also be helpful.
+318.90915081363056	320.92830895293724	O1	If panic attacks,[N]
+320.9495853278042	327.6538239339752	O1	become frequent, it might be worth ex- exploring additional treatment options with your therapist.[N]
+328.25	335.90957800212817	C1	Thank you for the advice. I will definitely try those techniques next time I feel a panic attack coming on.
+336.31349668124363	341.58606906512773	C1	Overall, I just wanted to feel more in control of my anxiety,
+341.60734543999473	345.4283808005243	C1	and not let it interfere with my daily life.
+345.8035036470228	352.57574368690143	O1	You are taking the right step by seeking help and being proactive about managing your anxiety.
+352.58850743557133	359.8204219978719	O1	It can take time, but with the right strategies and support, it is definitely possible to regain control.
+359.85446212140863	363.4682596176617	O1	Remember, it is okay to ask for help when you need it,[N]
+363.5001741799622	368.58637149308345	O1	and to be patient with yourself as they work through this.[N]
+369.03743686901447	376.63106018530533	C1	I appreciate your support and guidance, doctor. It makes me feel more hopeful about overcoming this.
+376.93318574654177	384.063009023984	C1	I will start with the lifestyle changes and look into finding a C B T therapist as well.
+384.45333201066995	386.08587720966557	O1	I'm glad to hear that.
+386.10715358453257	391.4591529588189	O1	Please feel free to reach out if you have any questions or need further assistance.
+391.48468045615857	395.1618186837385	O1	Wishing you the best on your journey to better mental health.
+395.1995780021282	397.7167758286348	O1	Take care and we will talk soon.
+398.1125143249104	404.19319612779316	C1	Thank you, doctor. I will keep you updated on my progress. Have a great day.
+404.20383431522663	408.0634123173549	O1	You're welcome. Take care and have a great day as well.
